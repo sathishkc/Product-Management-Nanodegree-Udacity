@@ -1,6 +1,7 @@
-# DoorDash_Product_Management
-UDACITY PRODUCT MANAGER NANODEGREE PROJECTS
+# Product Management Nanodegree
+![Product Management Graduation certificate](Product Management Graduation certificate.png)
 
+# PROJECTS
 
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. I have taken the case study of Doordash, a leading food delivery chain in USA, introducing robots for their delivery operations. The idea is to come up with a tool for the operations team to manage the robots remotely until the robot gets fully autonomous. 
 
