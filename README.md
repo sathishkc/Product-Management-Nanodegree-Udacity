@@ -1,5 +1,5 @@
 # Product Management Nanodegree
-![Product Management Graduation certificate](Product Management Graduation certificate.png)
+![Product Management Graduation certificate](Product_Management_Graduation_certificate.png)
 
 # PROJECTS
 
